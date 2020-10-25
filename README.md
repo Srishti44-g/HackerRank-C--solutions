@@ -17,3 +17,5 @@ If you are not familiar with C, you may want to read about the printf() command.
 - **Procedure-oriented programming language**
 - **Structured programming language**
 - **Mid-level programming language**
+
+#### In c, we can divide a large program into the basic building blocks known as function. The function contains the set of programming statements enclosed by {}. A function can be called multiple times to provide reusability and modularity to the C program. In other words, we can say that the collection of functions creates a program. The function is also known as procedureor subroutinein other programming languages.
